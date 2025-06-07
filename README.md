@@ -54,4 +54,20 @@ ros2 launch turtlebot3_navigation2 navigation2.launch.py use_sim_time:=true
 ```
 
 
+🤖 Terminal 4: Launch Autonomous Exploration (explore_lite)
+```bash
+ros2 launch explore_lite explore.launch.py
+```
+
+📂 Repository Structure
+```bash
+autonomous_mapping_ws/
+├── src/
+│   ├── m-explore-ros2/
+│   └── turtlebot3/
+├── .gitignore
+└── README.md
+```
+
+
 
