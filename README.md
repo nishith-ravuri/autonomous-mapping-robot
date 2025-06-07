@@ -3,6 +3,7 @@
 This project simulates a mobile robot that autonomously explores and maps an environment using **SLAM Toolbox**, **Nav2**, and **explore_lite** in **Gazebo**, based on the TurtleBot3 platform.
 
 ---
+![Screenshot from 2025-05-18 18-17-53](https://github.com/user-attachments/assets/b708cf54-27a7-4321-bb83-b59c676e9839)
 
 ## 🛠️ Dependencies
 
